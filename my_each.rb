@@ -1,6 +1,7 @@
 def my_each(array)
   i = 0 
   
-  while array.length 
+  while i < array.length 
+    i = i + 1
   # code here
 end
